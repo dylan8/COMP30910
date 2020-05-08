@@ -1,0 +1,43 @@
+MRR,ftype,dtype,SNR
+0.011507248277210799,spectrum,euclidean,-24.0
+0.13390780816581416,degree,euclidean,-24.0
+0.008309335624898788,degree distribution,euclidean,-24.0
+0.31225357817850075,spectrum,euclidean,-12.0
+0.43704111695183123,degree,euclidean,-12.0
+0.008346402640181392,degree distribution,euclidean,-12.0
+0.9305555555555556,spectrum,euclidean,-6.0
+0.6492918126846698,degree,euclidean,-6.0
+0.008654307877275043,degree distribution,euclidean,-6.0
+0.9761904761904762,spectrum,euclidean,-3.0
+0.7120181405895691,degree,euclidean,-3.0
+0.009098078274013308,degree distribution,euclidean,-3.0
+1.0,spectrum,euclidean,0.0
+0.7715277777777777,degree,euclidean,0.0
+0.00961801268296632,degree distribution,euclidean,0.0
+1.0,spectrum,euclidean,3.0
+0.8404761904761904,degree,euclidean,3.0
+0.012406245690443149,degree distribution,euclidean,3.0
+1.0,spectrum,euclidean,6.0
+0.8986111111111111,degree,euclidean,6.0
+0.014370302678080683,degree distribution,euclidean,6.0
+0.09906295923268502,spectrum,cosine,-24.0
+0.1351844009008019,degree,cosine,-24.0
+0.008555440769348163,degree distribution,cosine,-24.0
+0.44872448979591845,spectrum,cosine,-12.0
+0.6642006802721088,degree,cosine,-12.0
+0.009132071958790854,degree distribution,cosine,-12.0
+0.8273809523809523,spectrum,cosine,-6.0
+0.7708333333333334,degree,cosine,-6.0
+0.00909881246379901,degree distribution,cosine,-6.0
+0.9345238095238095,spectrum,cosine,-3.0
+0.8592403628117915,degree,cosine,-3.0
+0.009973240158194683,degree distribution,cosine,-3.0
+1.0,spectrum,cosine,0.0
+0.8898809523809523,degree,cosine,0.0
+0.01020313964043856,degree distribution,cosine,0.0
+1.0,spectrum,cosine,3.0
+0.9414682539682541,degree,cosine,3.0
+0.01155705363899289,degree distribution,cosine,3.0
+1.0,spectrum,cosine,6.0
+0.9801587301587302,degree,cosine,6.0
+0.01225254869562001,degree distribution,cosine,6.0
