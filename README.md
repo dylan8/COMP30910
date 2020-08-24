@@ -2,7 +2,7 @@ Dylan Kearns - Dylan.kearns@ucdconnect.ie
 
 Supervisor - Dr Andrew Hines
 
-### AUDIO - Contains 12 syntesized instrument wav files previously used in the study I am carrying on from
+AUDIO - Contains 12 syntesized instrument wav files previously used in the study I am carrying on from
 
 AUDIO2 - Contains 6 synthesized instrument wav files created by myself
 
